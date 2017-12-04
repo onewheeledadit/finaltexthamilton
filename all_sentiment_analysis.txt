@@ -1,0 +1,3360 @@
+MULLIGAN
+------------------------------------------------------
+brrrah brraaah
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+lock ya daughter horse course hard intercourse four set corset 
+{'neg': 0.135, 'neu': 0.865, 'pos': 0.0, 'compound': -0.1027}
+
+Aaron Burr
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Ooh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+yo I tailor s apprentice
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Whoa Whoa Whoa Whoa Whoa Yea
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+let s another round tonight
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+oh God tear dude apart
+{'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.2732}
+
+rah
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+rah
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+shhboom
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+matter tell
+{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.0258}
+
+newly poor
+{'neg': 0.756, 'neu': 0.244, 'pos': 0.0, 'compound': -0.4767}
+
+spit verse Burr
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+man 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+brother revolutionary covenant I runnin  Sons Liberty
+{'neg': 0.0, 'neu': 0.595, 'pos': 0.405, 'compound': 0.5267}
+
+like tend wound count dead
+{'neg': 0.439, 'neu': 0.306, 'pos': 0.255, 'compound': -0.4215}
+
+win
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5859}
+
+LAFAYETTE
+------------------------------------------------------
+oui oui mon ami je  appelle Lafayette Lancelot revolutionary set
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+wow
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5859}
+
+Ooh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+let s another round tonight
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+raise glass freedom
+{'neg': 0.0, 'neu': 0.323, 'pos': 0.677, 'compound': 0.6369}
+
+let s another round tonight
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+tell story tonight
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+worst Burr
+{'neg': 0.804, 'neu': 0.196, 'pos': 0.0, 'compound': -0.6249}
+
+snatch stalemate jaw defeat
+{'neg': 0.5, 'neu': 0.5, 'pos': 0.0, 'compound': -0.4588}
+
+I takin horse rein makin  Redcoats redder bloodstain
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I never gon na stop
+{'neg': 0.0, 'neu': 0.614, 'pos': 0.386, 'compound': 0.2235}
+
+watch I engagin  em Escapin  em enragin  em I 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+end war yorktown cut sea succeed someone else need
+{'neg': 0.395, 'neu': 0.395, 'pos': 0.211, 'compound': -0.4215}
+
+Sir know trench ingenuitive fluent french
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Sir gon na use eventually gon na bench
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+one resilience match practical tactical brilliance 
+{'neg': 0.0, 'neu': 0.562, 'pos': 0.438, 'compound': 0.5994}
+
+wan na fight land back
+{'neg': 0.394, 'neu': 0.606, 'pos': 0.0, 'compound': -0.3818}
+
+ah uh get ya right hand man back know get ta get ya right hand man back
+{'neg': 0.0, 'neu': 0.701, 'pos': 0.299, 'compound': 0.7506}
+
+Monsieur Hamilton
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+command belong
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+immigrant
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+go lead man
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ til meet let s go
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+lower gun frantically wave white handkerchief
+{'neg': 0.7, 'neu': 0.3, 'pos': 0.0, 'compound': -0.7184}
+
+Freedom America freedom France
+{'neg': 0.0, 'neu': 0.192, 'pos': 0.808, 'compound': 0.8555}
+
+win
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5859}
+
+ENSEMBLE
+------------------------------------------------------
+colony gon na rise colony gon na rise colony gon na rise colony gon na rise rise
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+throw away shot throw away shot gon na rise rise rise rise rise rise Ri  ri  ri  Time take shot time take shot
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+tell story tonight tell story tonight tell story tonight
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+raise glass freedom raise glass freedom tell story 
+{'neg': 0.0, 'neu': 0.417, 'pos': 0.583, 'compound': 0.8555}
+
+Tonight
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+look around look around 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+look around look around lucky alive right
+{'neg': 0.0, 'neu': 0.481, 'pos': 0.519, 'compound': 0.6597}
+
+silence
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ Thirtytwo thousand troops New York harbor surround troops surround troops surround troops
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ Thirtytwo thousand troops New York harbor surround troops surround troops
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+come General
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+come General
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+come General
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+come General
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Buck buck buck buck buck Buck buck buck buck buck
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+boom
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Buck buck buck buck buck Buck buck buck buck buck
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+come General
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+come General
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+come General
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+wait wait wait
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+wait wait wait wait
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+wait wait wait wait
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+wait wait wait wait
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+wait wait wait
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+climb climb climb
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+lose lose lose lose
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.8689}
+
+Time Time Time
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+gun ship balance shift
+{'neg': 0.444, 'neu': 0.556, 'pos': 0.0, 'compound': -0.34}
+
+Whoa  Whoa  Whoa 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ Til world turn upside
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Rochambeau
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+nonstop
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+nonstop
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Awwww
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+write like run time ev  ry day fight like run time nonstop
+{'neg': 0.157, 'neu': 0.542, 'pos': 0.301, 'compound': 0.34}
+
+nonstop
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Awww
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+wait wait wait  way wind blow I take time watch Afterbirth nation watch tension grow
+{'neg': 0.15, 'neu': 0.85, 'pos': 0.0, 'compound': -0.3182}
+
+Aaaooo
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Aaaooo
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Aaaooo
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Headin  New York Headin  New York
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+believe free I
+{'neg': 0.0, 'neu': 0.233, 'pos': 0.767, 'compound': 0.5106}
+
+Aaaooo
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Aaaooo
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Aaaooo
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wha Wha would
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Mr Jefferson welcome home
+{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.4588}
+
+go go go
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+say say say say
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+say say say say go go go
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+say say say say
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+go go go 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Diametric  ly oppose foe
+{'neg': 0.341, 'neu': 0.235, 'pos': 0.424, 'compound': 0.1779}
+
+previously close
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Bros
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+room happen room happen sausage get make assume happen room happen
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Ooh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+oh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+oh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+wait wait wait  wait wait wait wait 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Oooooh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+blow away
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Ooooooooooh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+count ten
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+one two three four
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+five six seven 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Burr Burr Burr Burr Burr Burr
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dear Mr Hamilton fellow Fed  ralist would like know vote
+{'neg': 0.0, 'neu': 0.611, 'pos': 0.389, 'compound': 0.6249}
+
+Dear Mr Hamilton John Adams stand chance promote
+{'neg': 0.0, 'neu': 0.41, 'pos': 0.59, 'compound': 0.7351}
+
+choose choose
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+choose choose
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+choose choose
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Jefferson Burr choose choose choose
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Jefferson Burr choose choose choose
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+oh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+oh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+oh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+oh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Oooooooooooooh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+well I damned well I damned
+{'neg': 0.553, 'neu': 0.0, 'pos': 0.447, 'compound': -0.25}
+
+JEFFERSON
+------------------------------------------------------
+every day slave slaughter cart away across wave struggle keep guard inside longing something part brother ready beg steal borrow barter
+{'neg': 0.253, 'neu': 0.651, 'pos': 0.096, 'compound': -0.4767}
+
+France follow revolution status quo sun come world still spin
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+would
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+letter desk President even put bag yet Sally lamb darlin  ntcha open say President s assemble cabinet
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+lookin  roll field
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+waitin  I
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+grab arm
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+uh  France
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+would
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ Life liberty pursuit happiness  fight ideal settle less wise word enterprising man quote  em act surprised guy cuz
+{'neg': 0.082, 'neu': 0.347, 'pos': 0.572, 'compound': 0.9387}
+
+Hamilton forget plan would government assume state s debt place bet benefit seat government Hamilton sit
+{'neg': 0.227, 'neu': 0.619, 'pos': 0.155, 'compound': -0.1027}
+
+Ooh shoe fit wear New York s debt  Virginia bear Uh debt pay I afraid tax South cuz get make shade Virginia plant seed ground create wan na move money around financial plan outrageous demand many damn page man understand stand I land free pray God never see Hamilton s candidacy look Britain tax tea get frisky imagine gon  happen try tax whisky
+{'neg': 0.182, 'neu': 0.628, 'pos': 0.191, 'compound': 0.1779}
+
+Ahahaha ha
+{'neg': 0.0, 'neu': 0.294, 'pos': 0.706, 'compound': 0.34}
+
+blunder sometimes make I wonder
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alexander Washington s doorstep one day distress  n disarray
+{'neg': 0.362, 'neu': 0.638, 'pos': 0.0, 'compound': -0.5267}
+
+Alexander say 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+basic  ly beg I join fray
+{'neg': 0.0, 'neu': 0.341, 'pos': 0.659, 'compound': 0.7003}
+
+well
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2732}
+
+Ohho
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+actually
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+provide vote
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+let s go
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+death s door needy make promise sign treaty need money gun half chance provide fund
+{'neg': 0.395, 'neu': 0.409, 'pos': 0.195, 'compound': -0.6597}
+
+return ask land promise would lend hand stand fight oppressor revolution messy time stand stand brother fight tyranny
+{'neg': 0.294, 'neu': 0.496, 'pos': 0.21, 'compound': -0.296}
+
+hey ya know ya know Mr President
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Mr President 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+sir fight freedom
+{'neg': 0.333, 'neu': 0.128, 'pos': 0.538, 'compound': 0.3818}
+
+people lead 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+forget Lafayette
+{'neg': 0.655, 'neu': 0.345, 'pos': 0.0, 'compound': -0.2263}
+
+ounce regret accumulate debt accumulate power yet hour need forget
+{'neg': 0.507, 'neu': 0.493, 'pos': 0.0, 'compound': -0.7351}
+
+quickwit
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+yeah well someone oughta remind
+{'neg': 0.0, 'neu': 0.411, 'pos': 0.589, 'compound': 0.5106}
+
+nothing without Washington behind
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Daddy s call
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ev  ry action equal opposite reaction thanks Hamilton cab n et s fracture faction try crack stress break like fraction smack press print retraction
+{'neg': 0.103, 'neu': 0.699, 'pos': 0.199, 'compound': 0.3818}
+
+see lie
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+centralize national credit make american credit competitive
+{'neg': 0.0, 'neu': 0.367, 'pos': 0.633, 'compound': 0.7096}
+
+fire try douse
+{'neg': 0.545, 'neu': 0.455, 'pos': 0.0, 'compound': -0.34}
+
+put inside house
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I cabinet
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+emperor clothes
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Washington help mister nice president
+{'neg': 0.0, 'neu': 0.353, 'pos': 0.647, 'compound': 0.6705}
+
+say
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hamilton s host unto long hold pen threat let s let know know
+{'neg': 0.254, 'neu': 0.746, 'pos': 0.0, 'compound': -0.5267}
+
+check stub separate account 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+though  virtue  word I would apply situation 
+{'neg': 0.0, 'neu': 0.641, 'pos': 0.359, 'compound': 0.4215}
+
+evidence suggest engage speculation 
+{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.34}
+
+Whaaaat 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+God
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2732}
+
+well never gon  President
+{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.2732}
+
+well never gon  President
+{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.2732}
+
+never gon  President
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+one less thing worry
+{'neg': 0.466, 'neu': 0.534, 'pos': 0.0, 'compound': -0.3862}
+
+get back politics
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+yo ev  ry action equal opposite reaction John Adams shit bed
+{'neg': 0.265, 'neu': 0.735, 'pos': 0.0, 'compound': -0.5574}
+
+faction
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+forthcoming particular stance
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+say I Francophile least know
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ha
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.34}
+
+mind
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Whaaaat
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+delegate
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+well I damned well I damned
+{'neg': 0.553, 'neu': 0.0, 'pos': 0.447, 'compound': -0.25}
+
+Uhhuh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+partnership
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Ha yeah right hear guy man openly campaign I talkin  bout
+{'neg': 0.0, 'neu': 0.635, 'pos': 0.365, 'compound': 0.5574}
+
+yeah know change know
+{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}
+
+ cuz I President hey Burr see Hamilton thank endorsement
+{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.5859}
+
+I give financial system work genius
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ANGELICA
+------------------------------------------------------
+Angelica
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Angelica
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Daddy need know
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ look around look around Revolution s happen New York
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+New idea air
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Eliza I lookin  mind work I lookin  mind work I lookin  mind work whooaaaaa
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Burr disgust I
+{'neg': 0.796, 'neu': 0.204, 'pos': 0.0, 'compound': -0.5994}
+
+I read common sense Thomas Paine man say I intense I insane want revolution
+{'neg': 0.203, 'neu': 0.602, 'pos': 0.195, 'compound': -0.2732}
+
+I  compel include woman sequel
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+cuz I read common sense Thomas Paine man say I intense I insane
+{'neg': 0.225, 'neu': 0.667, 'pos': 0.108, 'compound': -0.34}
+
+want revolution
+{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.0772}
+
+Angelica
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Whoa greatest city world
+{'neg': 0.0, 'neu': 0.417, 'pos': 0.583, 'compound': 0.6369}
+
+I change life
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+sister
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I leave
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.0516}
+
+I sayin  really love I would share
+{'neg': 0.0, 'neu': 0.301, 'pos': 0.699, 'compound': 0.788}
+
+I sure
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+
+right
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+name Angelica Schuyler
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+s fam  ly
+{'neg': 0.0, 'neu': 0.217, 'pos': 0.783, 'compound': 0.5574}
+
+ feel like match wit someone level hell catch feeling freedom seein  light Ben Franklin key kite see right conversation last two minute maybe three minute ev  rything say total agreement
+{'neg': 0.112, 'neu': 0.61, 'pos': 0.278, 'compound': 0.7003}
+
+eye 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I change life
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+number one
+{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.0772}
+
+I girl world job marry rich father son I one social climb one I oldest wittiest gossip New York City insidious Alexander penniless Ha mean
+{'neg': 0.064, 'neu': 0.712, 'pos': 0.225, 'compound': 0.6486}
+
+sister
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I cuz I Schuyler sister elevate status I would naïve set aside maybe
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I leave
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.0516}
+
+groom bride sister always side union hope provide May always satisfied
+{'neg': 0.0, 'neu': 0.612, 'pos': 0.388, 'compound': 0.6908}
+
+never satisfy
+{'neg': 0.713, 'neu': 0.287, 'pos': 0.0, 'compound': -0.357}
+
+forget write
+{'neg': 0.655, 'neu': 0.345, 'pos': 0.0, 'compound': -0.2263}
+
+never satisfied never satisfied Satisfied Satisfied  never satisfied Satisfied  Satisfied  fight like
+{'neg': 0.775, 'neu': 0.123, 'pos': 0.102, 'compound': -0.9249}
+
+dearest Alexander must get Jefferson Sit compromise stop  til agree fav  rite older sister Angelica remind someone corner way across sea letter
+{'neg': 0.075, 'neu': 0.614, 'pos': 0.311, 'compound': 0.7845}
+
+comma  dearest  write
+{'neg': 0.0, 'neu': 0.357, 'pos': 0.643, 'compound': 0.5574}
+
+ dearest Angelica 
+{'neg': 0.0, 'neu': 0.217, 'pos': 0.783, 'compound': 0.5574}
+
+anyway say I come home summer sister s invitation I fam  ly make way upstate
+{'neg': 0.0, 'neu': 0.753, 'pos': 0.247, 'compound': 0.5574}
+
+ocean away moment away 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Eliza
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alexander
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+good see face
+{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}
+
+ join wait
+{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}
+
+Alexander
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+way 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+take break
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Run away summer let s go upstate
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+go stay father
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I
+{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+
+moment word reach suffer terrible name hold child tight push away unimaginable moment deep feel easier swim
+{'neg': 0.281, 'neu': 0.553, 'pos': 0.166, 'compound': -0.5719}
+
+moment word reach grace powerful name push away never understand push away unimaginable stand garden Alexander Eliza s side take hand
+{'neg': 0.0, 'neu': 0.618, 'pos': 0.382, 'compound': 0.836}
+
+Angelica Eliza 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+every founding father story get tell every founding father get grow old
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Angelica
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+tell story
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+near
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+WASHINGTON
+------------------------------------------------------
+move cousin cousin commit suicide leave nothin  ruin pride something new inside
+{'neg': 0.45, 'neu': 0.332, 'pos': 0.218, 'compound': -0.7096}
+
+ get ta fend 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+start retreatin  readin  every treatise shelf
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I
+{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+
+outgun Outmanned Outnumbered Outplanned get ta make stand ayo I gon na need righthand man
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+check 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+hope success fleeting
+{'neg': 0.0, 'neu': 0.132, 'pos': 0.868, 'compound': 0.765}
+
+outgun Outmanned Outnumbered Outplanned get ta make stand ayo I gon na need righthand man incoming
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+go cannon watch blood shit spray 
+{'neg': 0.419, 'neu': 0.581, 'pos': 0.0, 'compound': -0.5574}
+
+go cannon abandonin  Kips Bay 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+another ship 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+lose southern tip 
+{'neg': 0.574, 'neu': 0.426, 'pos': 0.0, 'compound': -0.4019}
+
+get ta run Harlem quick afford another slip gun horse giddyup
+{'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.34}
+
+huh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+yes
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}
+
+Hamilton come meet Burr
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Burr
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+close door way
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+contrary
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hamilton come one get staff
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+get I wrong young man great renown
+{'neg': 0.277, 'neu': 0.357, 'pos': 0.366, 'compound': 0.25}
+
+upset
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.3818}
+
+alright want fight get hunger
+{'neg': 0.517, 'neu': 0.112, 'pos': 0.371, 'compound': -0.3182}
+
+die easy young man live harder
+{'neg': 0.361, 'neu': 0.37, 'pos': 0.269, 'compound': -0.25}
+
+I honest I work third Congress promise powder keg explode
+{'neg': 0.0, 'neu': 0.517, 'pos': 0.483, 'compound': 0.6808}
+
+Son
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+right hand man
+{'neg': 0.0, 'neu': 0.385, 'pos': 0.615, 'compound': 0.4939}
+
+cavalry s come
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alex listen one way win provoke outrage outright
+{'neg': 0.405, 'neu': 0.338, 'pos': 0.257, 'compound': -0.296}
+
+engage strike night Remain relentless  til troops take flight
+{'neg': 0.135, 'neu': 0.541, 'pos': 0.324, 'compound': 0.2732}
+
+outrun
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+outlast
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+hit  em quick get fast
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Stay alive  til horror show past gon na fly lot flag halfmast
+{'neg': 0.227, 'neu': 0.613, 'pos': 0.16, 'compound': -0.2732}
+
+ev  ryone attack
+{'neg': 0.608, 'neu': 0.392, 'pos': 0.0, 'compound': -0.4767}
+
+attack
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.4767}
+
+Lee get back foot
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I sorry speed Hamilton
+{'neg': 0.394, 'neu': 0.606, 'pos': 0.0, 'compound': -0.0772}
+
+Lafayette take lead
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+thing history prove wrong
+{'neg': 0.508, 'neu': 0.492, 'pos': 0.0, 'compound': -0.4767}
+
+war fight let s move along
+{'neg': 0.684, 'neu': 0.316, 'pos': 0.0, 'compound': -0.7579}
+
+meaning mr Burr get medic General
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Lee never agree I believe I young man speak I thank service
+{'neg': 0.182, 'neu': 0.603, 'pos': 0.215, 'compound': 0.1002}
+
+Hamilton
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+meet I inside
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Son 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+war hard enough without infighting 
+{'neg': 0.639, 'neu': 0.361, 'pos': 0.0, 'compound': -0.6486}
+
+solve nothing aggravate ally south
+{'neg': 0.0, 'neu': 0.392, 'pos': 0.608, 'compound': 0.5647}
+
+Son 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+watch tone
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+name s lot
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+could die need alive
+{'neg': 0.459, 'neu': 0.235, 'pos': 0.306, 'compound': -0.3182}
+
+wife need alive son
+{'neg': 0.0, 'neu': 0.536, 'pos': 0.464, 'compound': 0.3818}
+
+go home Alexander order commander
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+go home
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+rendezvous Rochambeau consolidate gift
+{'neg': 0.0, 'neu': 0.508, 'pos': 0.492, 'compound': 0.4404}
+
+Alexander Hamilton Troops wait field join right together turn tide oh Alexander Hamilton
+{'neg': 0.0, 'neu': 0.845, 'pos': 0.155, 'compound': 0.296}
+
+know history eye I
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+let I tell
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+yet
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ask I lead
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+leave behind world know 
+{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.0516}
+
+Treasury
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2023}
+
+Mr Jefferson welcome home
+{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.4588}
+
+Ladies gentleman coulda anywhere world tonight New York City ready cabinet meeting issue table Secretary Hamilton s plan assume state debt establish national bank Secretary Jefferson floor sir
+{'neg': 0.083, 'neu': 0.833, 'pos': 0.083, 'compound': 0.0}
+
+thank Secretary Jefferson Secretary Hamilton response
+{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.3612}
+
+excuse I Madison Jefferson take walk Hamilton take walk reconvene brief recess Hamilton
+{'neg': 0.0, 'neu': 0.894, 'pos': 0.106, 'compound': 0.0772}
+
+wan na pull together
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+young man I Virginia watch mouth
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+need vote
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+need convince folk
+{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.25}
+
+win easy young man Governing s harder
+{'neg': 0.0, 'neu': 0.374, 'pos': 0.626, 'compound': 0.7717}
+
+find compromise
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+convince otherwise
+{'neg': 0.0, 'neu': 0.333, 'pos': 0.667, 'compound': 0.25}
+
+figure Alexander order commander
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+issue table France verge war England provide aid troops french ally stay remember decision matter subject congressional approval person convince I Secretary Jefferson floor sir
+{'neg': 0.13, 'neu': 0.664, 'pos': 0.206, 'compound': 0.0772}
+
+thank Secretary Jefferson Secretary Hamilton response
+{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.3612}
+
+Enough Hamilton right
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+fragile start another fight
+{'neg': 0.464, 'neu': 0.536, 'pos': 0.0, 'compound': -0.3818}
+
+sure french figure gon na lead  em
+{'neg': 0.0, 'neu': 0.723, 'pos': 0.277, 'compound': 0.3182}
+
+people rioting difference frankly little disquieting would let ideal blind reality Hamilton
+{'neg': 0.168, 'neu': 0.621, 'pos': 0.211, 'compound': 0.1779}
+
+draft statement neutrality
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hamilton
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Thomas Jefferson resign morning
+{'neg': 0.444, 'neu': 0.556, 'pos': 0.0, 'compound': -0.34}
+
+shh talk less
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+step run President
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I step I run President
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+one last time relax drink I one last time let s take break tonight teach say goodbye say goodbye
+{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.4404}
+
+pick pen start write
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+one last time people hear I one last time get right gon na teach  em say Goodbye
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+see strong
+{'neg': 0.0, 'neu': 0.233, 'pos': 0.767, 'compound': 0.5106}
+
+I use move along
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+hope View indulgence fortyfive year life dedicate service upright zeal consign oblivion
+{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.4404}
+
+one last time
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+let I tell
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+tell story
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+BURR
+------------------------------------------------------
+bastard orphan son whore Scotsman drop middle Forgotten spot Caribbean providence Impoverished squalor grow hero scholar
+{'neg': 0.447, 'neu': 0.417, 'pos': 0.136, 'compound': -0.802}
+
+well word get around say  kid insane man  take collection send mainland  get education forget whence come world gon na know name name man 
+{'neg': 0.166, 'neu': 0.758, 'pos': 0.076, 'compound': -0.3612}
+
+would nothin  leave someone less astute woulda dead destitute without cent restitution start workin  clerkin  late mother s landlord tradin  sugar cane rum thing afford scammin  every book get hand plannin  future see stand bow ship head new land New York new man
+{'neg': 0.11, 'neu': 0.822, 'pos': 0.067, 'compound': -0.2585}
+
+ship harbor see spot another immigrant Comin  bottom enemy destroy rep America forget
+{'neg': 0.471, 'neu': 0.529, 'pos': 0.0, 'compound': -0.836}
+
+I I damn fool shoot
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.7906}
+
+name man
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+depend ask
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I get nervous
+{'neg': 0.677, 'neu': 0.323, 'pos': 0.0, 'compound': -0.2732}
+
+punch bursar
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+parent  die wish pass
+{'neg': 0.453, 'neu': 0.233, 'pos': 0.314, 'compound': -0.296}
+
+talk let I offer free advice talk less
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.5106}
+
+smile
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}
+
+let know
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+wan na get ahead
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+fool run mouth wind dead
+{'neg': 0.706, 'neu': 0.294, 'pos': 0.0, 'compound': -0.802}
+
+ like
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}
+
+good luck takin  stand spit I  sit see land
+{'neg': 0.0, 'neu': 0.504, 'pos': 0.496, 'compound': 0.7096}
+
+genius lower voice keep trouble double choice I situation fraught get carefully teach talk gon na get shoot
+{'neg': 0.335, 'neu': 0.596, 'pos': 0.069, 'compound': -0.7003}
+
+nothing rich folk love go downtown slummin  poor pull carriage gawk student common watch talk take Philip Schuyler man load Uhoh little know daughter Peggy Angelica Eliza Sneak city watch guy 
+{'neg': 0.251, 'neu': 0.749, 'pos': 0.0, 'compound': -0.8553}
+
+Wooh nothin  like summer city someone rush next someone lookin  pretty excuse I miss
+{'neg': 0.091, 'neu': 0.511, 'pos': 0.398, 'compound': 0.6597}
+
+ah discuss I I trust fund baby trust I
+{'neg': 0.0, 'neu': 0.377, 'pos': 0.623, 'compound': 0.765}
+
+let
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alexander please
+{'neg': 0.0, 'neu': 0.303, 'pos': 0.697, 'compound': 0.3182}
+
+Ladies gentleman
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+moment wait
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+pride Mount Vernon
+{'neg': 0.0, 'neu': 0.455, 'pos': 0.545, 'compound': 0.34}
+
+George Washington
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+excellency sir
+{'neg': 0.0, 'neu': 0.222, 'pos': 0.778, 'compound': 0.5423}
+
+Aaron Burr Sir permission state case
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+well 
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2732}
+
+keep meeting
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+sure
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+
+sensible
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+kind I afraid unlawful sir
+{'neg': 0.0, 'neu': 0.469, 'pos': 0.531, 'compound': 0.5267}
+
+marry
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+marry british officer
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Congrats Alexander Smile I see side war
+{'neg': 0.305, 'neu': 0.234, 'pos': 0.461, 'compound': 0.25}
+
+I see side war
+{'neg': 0.661, 'neu': 0.339, 'pos': 0.0, 'compound': -0.5994}
+
+Theodosia write I letter every day im keep bed warm husband away british side Georgia Hes try keep colony line keep Georgia Theodosia mine love doesnt discriminate sinner saint take take take keep loving anyway laugh cry break make mistake reason im side many try im willing wait im willing wait
+{'neg': 0.087, 'neu': 0.697, 'pos': 0.216, 'compound': 0.8442}
+
+grandfather fire brimstone preacher thing Homilies hymn wont teach ya mother genius father command respect die leave instruction legacy protect
+{'neg': 0.266, 'neu': 0.532, 'pos': 0.202, 'compound': -0.2023}
+
+I fall behind run late
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I stand still
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hamilton face endless uphill climb
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+something prove nothing lose
+{'neg': 0.0, 'neu': 0.571, 'pos': 0.429, 'compound': 0.3089}
+
+Hamilton s pace relentless waste time
+{'neg': 0.4, 'neu': 0.429, 'pos': 0.171, 'compound': -0.3818}
+
+like shoe Hamilton hesitate exhibit restraint take take take keep win anyway change game play raise stake reason seem thrive survive Goddamnit 
+{'neg': 0.073, 'neu': 0.625, 'pos': 0.302, 'compound': 0.765}
+
+im willing wait im willing wait  Life doesnt discriminate sinner saint take take take rise fall reason im still alive many die im willin 
+{'neg': 0.137, 'neu': 0.772, 'pos': 0.091, 'compound': -0.3182}
+
+wait  wait 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+negotiate peace 
+{'neg': 0.0, 'neu': 0.222, 'pos': 0.778, 'compound': 0.5423}
+
+commonplace  specially  tween recruit
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+turn around deniability
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alexander
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+agree duel dumb immature
+{'neg': 0.423, 'neu': 0.256, 'pos': 0.321, 'compound': -0.2023}
+
+life know absurd sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+okay doin 
+{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}
+
+shoot side yes yield
+{'neg': 0.338, 'neu': 0.282, 'pos': 0.38, 'compound': 0.0772}
+
+yo get ta clear field
+{'neg': 0.0, 'neu': 0.606, 'pos': 0.394, 'compound': 0.3818}
+
+fun
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5106}
+
+yes sir
+{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}
+
+let s ride
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ragtag volunteer army need shower somehow defeat global superpower emerge victorious quagmire leave battlefield wave Betsy Ross  flag higher Yo turn secret weapon immigrant know love unafraid step constantly confusin  confoundin  british henchman ev  ryone give America s favorite fighting frenchman
+{'neg': 0.222, 'neu': 0.638, 'pos': 0.139, 'compound': -0.3182}
+
+Dear Theodosia say eye mother s name come world cry break heart I dedicate every day domestic life never quite style smile knock I
+{'neg': 0.208, 'neu': 0.692, 'pos': 0.1, 'compound': -0.4245}
+
+father around
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I around
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I make million mistake
+{'neg': 0.545, 'neu': 0.455, 'pos': 0.0, 'compound': -0.34}
+
+war
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.5994}
+
+even though start time Alexander Hamilton begin climb account rise top Maaaaan man
+{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.2023}
+
+Cocounsel Hamilton sit client Levi Weeks innocent call first witness say
+{'neg': 0.0, 'neu': 0.806, 'pos': 0.194, 'compound': 0.34}
+
+assume smartest room assume smartest room assume smartest room soon attitude may doom
+{'neg': 0.114, 'neu': 0.38, 'pos': 0.506, 'compound': 0.8834}
+
+write like run time write day night like run time ev  ry day fight like run time keep fight meantime 
+{'neg': 0.188, 'neu': 0.542, 'pos': 0.271, 'compound': 0.3182}
+
+Hamilton Constitutional Convention
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+New York junior delegate
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+go propose form government plan new form government
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+talk six hour convention listless
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+always say believe always say believe ev  ry proclamation guarantee free ammunition enemy
+{'neg': 0.186, 'neu': 0.532, 'pos': 0.282, 'compound': 0.2023}
+
+Alexander
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+middle night
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+legal matter
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.1531}
+
+need
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+okay
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2263}
+
+client
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+way
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+one read
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+fail
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.5423}
+
+constitution s mess
+{'neg': 0.714, 'neu': 0.286, 'pos': 0.0, 'compound': -0.3612}
+
+full contradiction
+{'neg': 0.667, 'neu': 0.333, 'pos': 0.0, 'compound': -0.25}
+
+way
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+good night
+{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}
+
+course
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+back wrong horse
+{'neg': 0.608, 'neu': 0.392, 'pos': 0.0, 'compound': -0.4767}
+
+I keep plan close chest I wait see way wind blow I take time watch Afterbirth nation watch tension grow
+{'neg': 0.126, 'neu': 0.874, 'pos': 0.0, 'compound': -0.3182}
+
+Alexander join force James Madison John Jay write series essay defend new United States Constitution entitle Federalist Papers plan write total twentyfive essay work divide evenly among three man end write eightyfive essay span six month John Jay get sick write five James Madison write twentynine Hamilton write fiftyone
+{'neg': 0.061, 'neu': 0.847, 'pos': 0.092, 'compound': 0.1779}
+
+write like run time write day night like run time
+{'neg': 0.0, 'neu': 0.615, 'pos': 0.385, 'compound': 0.6124}
+
+assume smartest room assume smartest room assume smartest room soon attitude s gon na doom fight like run time fight like Nonstop Nonstop Nonstop Nonstop
+{'neg': 0.193, 'neu': 0.391, 'pos': 0.416, 'compound': 0.8779}
+
+ bastard orphan immigrant decorate war vet unite colony debt fight founding father til forfeit lose ready yet Treasury Secretary Washington s President Ev  ry american experiment set precedent fast someone come along resist piss twoparty system meet yet chance  cause kickin  ass ambassador France someone s get ta keep american promise simply must meet Thomas Thomas
+{'neg': 0.293, 'neu': 0.589, 'pos': 0.118, 'compound': -0.93}
+
+nothing like summer city someone stress meet someone look pretty trouble air smell Alexander s I let tell
+{'neg': 0.334, 'neu': 0.526, 'pos': 0.14, 'compound': -0.5283}
+
+ah Mister Secretary
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Didja hear news good old General Mercer
+{'neg': 0.0, 'neu': 0.674, 'pos': 0.326, 'compound': 0.4404}
+
+know Clermont Street
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+rename Mercer legacy secure
+{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.34}
+
+die
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.5994}
+
+oughta give try
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+gon na get debt plan
+{'neg': 0.385, 'neu': 0.615, 'pos': 0.0, 'compound': -0.3612}
+
+really
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ha
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.34}
+
+Madison Jefferson merciless
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+two Virginians immigrant walk room
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+emerge compromise open door
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+immigrant emerge unprecedented financial power
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+one else room happen room happen room happen one else room happen room happen room happen one really know game play art trade sausage get make assume happen one else room happen
+{'neg': 0.0, 'neu': 0.921, 'pos': 0.079, 'compound': 0.3947}
+
+one else 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+one else 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+one really know party get yesssss piece sacrifice ev  ry game chesssss assume happen one else room happen
+{'neg': 0.0, 'neu': 0.851, 'pos': 0.149, 'compound': 0.4549}
+
+Madison grapple fact ev  ry issue settle committee
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Congress fight put capital  company scream chaos
+{'neg': 0.692, 'neu': 0.308, 'pos': 0.0, 'compound': -0.8402}
+
+pretty Jefferson approach dinner invite Madison respond virginian insight
+{'neg': 0.0, 'neu': 0.593, 'pos': 0.407, 'compound': 0.5859}
+
+God
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2732}
+
+one else room happen
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+say get sell New York City river
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Washington know dinner presidential pressure deliver
+{'neg': 0.306, 'neu': 0.694, 'pos': 0.0, 'compound': -0.296}
+
+know even matter put
+{'neg': 0.0, 'neu': 0.732, 'pos': 0.268, 'compound': 0.0258}
+
+get give
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+hold nose close eye
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+get say trade away
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+dream dark part
+{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.25}
+
+I get room  I get  I get  oh I get room happen  I get I get ta I get ta  room clickboom
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+since one put I
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+need know I like
+{'neg': 0.0, 'neu': 0.444, 'pos': 0.556, 'compound': 0.3612}
+
+oh Wall Street think great always adore thing create upstate 
+{'neg': 0.0, 'neu': 0.417, 'pos': 0.583, 'compound': 0.8689}
+
+ people think crooked Schuyler s seat grab
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+must nice must nice Washington side must nice must nice Washington side
+{'neg': 0.0, 'neu': 0.417, 'pos': 0.583, 'compound': 0.8807}
+
+must nice must nice Washington side must nice must nice Washington side look back Bill Rights
+{'neg': 0.0, 'neu': 0.517, 'pos': 0.483, 'compound': 0.8807}
+
+look eye
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+somebody stand mouth
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hamilton shorttempered protean creator Coast Guard founder New York Post ardently abuse cab n et post destroy reputation welcome folk
+{'neg': 0.288, 'neu': 0.599, 'pos': 0.112, 'compound': -0.6908}
+
+Jefferson s runnerup make Vice President
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Adams fire Hamilton privately call  creole bastard  taunt
+{'neg': 0.496, 'neu': 0.504, 'pos': 0.0, 'compound': -0.7096}
+
+Hamilton publish response
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hamilton control
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Mr James Reynolds way back seventeen ninetyone
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+immigrant embezzle government fund 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+one else room happen
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ Dear Sir
+{'neg': 0.0, 'neu': 0.278, 'pos': 0.722, 'compound': 0.3818}
+
+Alexander rumor grow Know know
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+wait wait wait 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+real crime amorous connection wife
+{'neg': 0.376, 'neu': 0.323, 'pos': 0.301, 'compound': -0.1779}
+
+house
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+talk less smile let  em know Shake hand charm eighteen hundred lady tell husband vote Burr
+{'neg': 0.078, 'neu': 0.55, 'pos': 0.372, 'compound': 0.7512}
+
+Alexander
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I go door door
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+sure
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+
+honestly kind drain
+{'neg': 0.0, 'neu': 0.135, 'pos': 0.865, 'compound': 0.7506}
+
+Sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I chase
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+congrat race wellrun
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+vicepresident
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hamilton arrogant immigrant orphan bastard whoreson somehow endorse Thomas Jefferson enemy
+{'neg': 0.618, 'neu': 0.276, 'pos': 0.106, 'compound': -0.9022}
+
+keep I 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+last time Dear Alexander
+{'neg': 0.0, 'neu': 0.536, 'pos': 0.464, 'compound': 0.3818}
+
+sweet Jesus
+{'neg': 0.0, 'neu': 0.25, 'pos': 0.75, 'compound': 0.4588}
+
+careful proceed good man intemperate indeed good man Answer accusation
+{'neg': 0.13, 'neu': 0.39, 'pos': 0.481, 'compound': 0.6597}
+
+stand Alexander Weehawken Dawn gun draw
+{'neg': 0.324, 'neu': 0.676, 'pos': 0.0, 'compound': -0.34}
+
+five six seven eight nine 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ten thing need know
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+row across Hudson dawn friend William
+{'neg': 0.0, 'neu': 0.61, 'pos': 0.39, 'compound': 0.4939}
+
+Hamilton arrive crew Nathaniel Pendleton doctor know
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hamilton draw first position look world like man mission soldier marksman s ability doctor turn around could deniability
+{'neg': 0.0, 'neu': 0.758, 'pos': 0.242, 'compound': 0.5859}
+
+examine gun rigor
+{'neg': 0.545, 'neu': 0.455, 'pos': 0.0, 'compound': -0.34}
+
+Confession time
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+teach class look Hamilton wear glass take deadly aim I world never
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+look eye aim higher summon courage require count
+{'neg': 0.0, 'neu': 0.686, 'pos': 0.314, 'compound': 0.4939}
+
+wait
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+somebody tell I  would better hide 
+{'neg': 0.224, 'neu': 0.395, 'pos': 0.382, 'compound': 0.296}
+
+say
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+side die death discriminate sinner saint take take take history obliterate every picture paint paint I mistake Alexander aim sky may first one die I one pay
+{'neg': 0.505, 'neu': 0.495, 'pos': 0.0, 'compound': -0.9607}
+
+President Jefferson
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+President Madison
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+go remember name keep flame
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+HAMILTON
+------------------------------------------------------
+Alexander Hamilton name Alexander Hamilton million thing
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+wait wait
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+wait
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+pardon I Aaron Burr sir
+{'neg': 0.0, 'neu': 0.566, 'pos': 0.434, 'compound': 0.3182}
+
+oh well sure sir I Alexander Hamilton I service sir
+{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.5267}
+
+Sir 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+yes
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}
+
+orphan course I orphan God
+{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.2732}
+
+would nice
+{'neg': 0.0, 'neu': 0.263, 'pos': 0.737, 'compound': 0.4215}
+
+ha
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.34}
+
+serious
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.0772}
+
+yes
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}
+
+stand nothing Burr fall
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+shock hist  ry book mention I
+{'neg': 0.394, 'neu': 0.606, 'pos': 0.0, 'compound': -0.3818}
+
+Burr check get Mister Lafayette hard rock like Lancelot
+{'neg': 0.128, 'neu': 0.642, 'pos': 0.229, 'compound': 0.2732}
+
+Time take shot
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+child tell story 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+tell story tonight
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+let s another round tonight
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+tell story tonight
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+matter tell
+{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.0258}
+
+Yo would unravel sound scream revolution comin  havenot gon na win hard listen straight face chaos bloodshed already haunt honestly even talk Boston look cost n  lose n  talk Congress dog speak eloquently thee strangely mange Jersey revolution
+{'neg': 0.301, 'neu': 0.528, 'pos': 0.17, 'compound': -0.6908}
+
+repeat I gon na 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+honestly look I please read
+{'neg': 0.0, 'neu': 0.274, 'pos': 0.726, 'compound': 0.6486}
+
+modulate key debate I tiny island across sea regulate price tea
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Burr I would rather divisive indecisive drop nicety
+{'neg': 0.398, 'neu': 0.388, 'pos': 0.214, 'compound': -0.2263}
+
+kid Caribbean
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+tell story
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+understand way 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+come
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+batter battery check damages
+{'neg': 0.492, 'neu': 0.508, 'pos': 0.0, 'compound': -0.4404}
+
+get ta stop  em rob  em advantage
+{'neg': 0.492, 'neu': 0.339, 'pos': 0.169, 'compound': -0.5859}
+
+let s take stand stamina God grant Hamilton abandon ship Yo let s steal cannon 
+{'neg': 0.292, 'neu': 0.383, 'pos': 0.325, 'compound': -0.0772}
+
+excellency want see I
+{'neg': 0.0, 'neu': 0.172, 'pos': 0.828, 'compound': 0.5859}
+
+yes sir
+{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}
+
+Sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Secretary
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I 
+{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+
+yes
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}
+
+tell I
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+need help get
+{'neg': 0.0, 'neu': 0.426, 'pos': 0.574, 'compound': 0.4019}
+
+need spy inside King s man might let thing slide
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I write Congress tell  em need supplies rally guy master element surprise I rise station organize information  til rise occasion new nation Sir
+{'neg': 0.0, 'neu': 0.905, 'pos': 0.095, 'compound': 0.2732}
+
+rise
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+rise
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+rise
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+take I
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+means lead way
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Schuyler
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+take fight war meet worth
+{'neg': 0.625, 'neu': 0.192, 'pos': 0.183, 'compound': -0.6808}
+
+Eliza
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Eliza  I never feel  life gon  fine cuz Eliza s
+{'neg': 0.0, 'neu': 0.795, 'pos': 0.205, 'compound': 0.2023}
+
+strike I woman never satisfy
+{'neg': 0.666, 'neu': 0.334, 'pos': 0.0, 'compound': -0.4552}
+
+like I I never satisfy
+{'neg': 0.415, 'neu': 0.167, 'pos': 0.418, 'compound': 0.0052}
+
+Alexander Hamilton
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+unimportant million thing
+{'neg': 0.535, 'neu': 0.465, 'pos': 0.0, 'compound': -0.3182}
+
+take I
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+means lead way
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Schuyler
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+take fight war meet worth
+{'neg': 0.625, 'neu': 0.192, 'pos': 0.183, 'compound': -0.6808}
+
+groom groom groom bride bride Angelica Angelica side union revolution provide provide
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+well Aaron Burr
+{'neg': 0.0, 'neu': 0.488, 'pos': 0.512, 'compound': 0.2732}
+
+ignore Congrats Lieutenant Colonel
+{'neg': 0.316, 'neu': 0.253, 'pos': 0.43, 'compound': 0.2263}
+
+yes
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}
+
+guy go
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+leave alone
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.296}
+
+alright Burr
+{'neg': 0.0, 'neu': 0.333, 'pos': 0.667, 'compound': 0.25}
+
+mean
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+oh shit 
+{'neg': 0.783, 'neu': 0.217, 'pos': 0.0, 'compound': -0.5574}
+
+I see side war
+{'neg': 0.661, 'neu': 0.339, 'pos': 0.0, 'compound': -0.5994}
+
+sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+right
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+make impossible justify cost fight
+{'neg': 0.394, 'neu': 0.606, 'pos': 0.0, 'compound': -0.3818}
+
+outrun
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+outlast
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Chickaplao
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+cut supply line steal contraband pick choose battle place take stand ev  ry day  Sir entrust I command  ev  ry day
+{'neg': 0.317, 'neu': 0.683, 'pos': 0.0, 'compound': -0.7845}
+
+dismiss I hand
+{'neg': 0.0, 'neu': 0.238, 'pos': 0.762, 'compound': 0.4939}
+
+instead I promote Charles Lee make secondincommand
+{'neg': 0.0, 'neu': 0.658, 'pos': 0.342, 'compound': 0.3818}
+
+yeah choice
+{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}
+
+ready sir
+{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}
+
+yes sir
+{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}
+
+Charles Lee leave behind without pot piss start sayin  anybody would listen
+{'neg': 0.089, 'neu': 0.743, 'pos': 0.168, 'compound': 0.2635}
+
+sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Laurens throw away shot
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+lieutenant reckoning reckon
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+negotiate time place
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+pay advance treat civility
+{'neg': 0.23, 'neu': 0.328, 'pos': 0.443, 'compound': 0.3182}
+
+leave note next kin tell  em Pray hell heaven let
+{'neg': 0.333, 'neu': 0.345, 'pos': 0.322, 'compound': -0.0516}
+
+Aaron Burr sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+sure man answer word Burr
+{'neg': 0.0, 'neu': 0.635, 'pos': 0.365, 'compound': 0.3182}
+
+Hang many man die Lee inexperienced ruinous
+{'neg': 0.603, 'neu': 0.397, 'pos': 0.0, 'compound': -0.8225}
+
+look  em eye aim higher summon courage require count
+{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.4939}
+
+Lee yield
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+go win
+{'neg': 0.0, 'neu': 0.208, 'pos': 0.792, 'compound': 0.5859}
+
+Sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+call I son
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Lee call call bluff
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+youre absolutely right John shoot mouth would shut
+{'neg': 0.276, 'neu': 0.724, 'pos': 0.0, 'compound': -0.3947}
+
+I notcha son 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+well
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2732}
+
+give I command battalion group man lead
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I willing die 
+{'neg': 0.796, 'neu': 0.204, 'pos': 0.0, 'compound': -0.5994}
+
+call I son one time 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Sir 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+long know
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Eliza tell I
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+tell I
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+war s
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.5994}
+
+relish poor man s wife unable provide life
+{'neg': 0.341, 'neu': 0.659, 'pos': 0.0, 'compound': -0.4767}
+
+Monsieur Lafayette
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+say sweat finally field quite run
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+happen win
+{'neg': 0.0, 'neu': 0.208, 'pos': 0.792, 'compound': 0.5859}
+
+see side
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ Til world turn upside 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+bullet gun
+{'neg': 0.706, 'neu': 0.294, 'pos': 0.0, 'compound': -0.34}
+
+move cover move one night one shot live another day let stray gunshot give away fight close seize moment stay either meet business end bayonet code word  Rochambeau  dig I
+{'neg': 0.085, 'neu': 0.915, 'pos': 0.0, 'compound': -0.3818}
+
+order go man go american experiment begin friend scatter wind Laurens South Carolina redefine brav  ry
+{'neg': 0.0, 'neu': 0.824, 'pos': 0.176, 'compound': 0.4939}
+
+finally drive british away Lafayette wait 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+know plan would work spy inside right
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+week fight young man red coat stand parapet
+{'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.3818}
+
+negotiate term surrender
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Got ta start new nation get ta meet son
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+oh Philip smile
+{'neg': 0.0, 'neu': 0.444, 'pos': 0.556, 'compound': 0.3612}
+
+I whatever take
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+aafter war
+{'neg': 0.796, 'neu': 0.204, 'pos': 0.0, 'compound': -0.5994}
+
+gentleman jury I curious bear I aware make hist  ry first murder trial brandnew nation liberty behind Deliberation 
+{'neg': 0.201, 'neu': 0.556, 'pos': 0.244, 'compound': -0.0}
+
+okay one thing 
+{'neg': 0.0, 'neu': 0.513, 'pos': 0.487, 'compound': 0.2263}
+
+Corruption s old song sing along harmony nowhere stronger Albany colony s economy s increasingly stall
+{'neg': 0.239, 'neu': 0.599, 'pos': 0.162, 'compound': -0.0731}
+
+honestly public service seem call I
+{'neg': 0.0, 'neu': 0.571, 'pos': 0.429, 'compound': 0.4588}
+
+I go say may sound indelicate 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Aaron Burr sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+confer sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+yes important I
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5423}
+
+Burr better lawyer I
+{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}
+
+new
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+hear I
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Burr need
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+need amendment
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+independence start somewhere
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+make mistake
+{'neg': 0.706, 'neu': 0.294, 'pos': 0.0, 'compound': -0.34}
+
+hey wait stall
+{'neg': 0.474, 'neu': 0.526, 'pos': 0.0, 'compound': -0.2023}
+
+win war support constitution
+{'neg': 0.342, 'neu': 0.088, 'pos': 0.57, 'compound': 0.3818}
+
+defend
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Burr study fight kill notion nation get build life take stand pride
+{'neg': 0.39, 'neu': 0.481, 'pos': 0.128, 'compound': -0.7096}
+
+Angelica
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+write like tomorrow arrive write like need survive write ev  ry second alive ev  ry second alive ev  ry second alive
+{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.8957}
+
+Treasury State
+{'neg': 0.0, 'neu': 0.357, 'pos': 0.643, 'compound': 0.2023}
+
+Treasury State
+{'neg': 0.0, 'neu': 0.357, 'pos': 0.643, 'compound': 0.2023}
+
+Sir want I run Treasury State department
+{'neg': 0.0, 'neu': 0.563, 'pos': 0.437, 'compound': 0.2732}
+
+let s go
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+look around look around lucky alive right
+{'neg': 0.0, 'neu': 0.481, 'pos': 0.519, 'compound': 0.6597}
+
+ask I lead
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Mr Jefferson Alexander Hamilton
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+true
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4215}
+
+Thomas real nice declaration welcome present run real nation would like join stay mellow Doin  whatever hell Monticello assume debt union get
+{'neg': 0.211, 'neu': 0.476, 'pos': 0.312, 'compound': 0.34}
+
+Sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I sorry Virginians bird feather
+{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.0772}
+
+let Congress get hold hostage South
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+need bold stroke need plan
+{'neg': 0.0, 'neu': 0.606, 'pos': 0.394, 'compound': 0.3818}
+
+James Madison talk I nonstarter
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+intransigent
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+plan hate mine
+{'neg': 0.649, 'neu': 0.351, 'pos': 0.0, 'compound': -0.5719}
+
+happen
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Sir 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+dearest Angelica  tomorrow tomorrow tomorrow Creeps petty pace day day 
+{'neg': 0.134, 'neu': 0.597, 'pos': 0.269, 'compound': 0.4215}
+
+I minute save plate
+{'neg': 0.0, 'neu': 0.385, 'pos': 0.615, 'compound': 0.4939}
+
+okay okay 
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4215}
+
+Uhhuh okay Bravo
+{'neg': 0.0, 'neu': 0.513, 'pos': 0.487, 'compound': 0.2263}
+
+hey kid pretty great
+{'neg': 0.0, 'neu': 0.215, 'pos': 0.785, 'compound': 0.8074}
+
+Eliza I get much plate
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I would love go
+{'neg': 0.0, 'neu': 0.323, 'pos': 0.677, 'compound': 0.6369}
+
+Schuyler sister
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+hi
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Angelica tell wife John Adams real job anyway
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I afraid
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+know
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+say
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+hey 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+nooo show I
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+mind I tryin  go
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+mouth mine
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Fuuuu 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+half dress apologetic
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+whole story setup
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+stop cry Goddamnit get
+{'neg': 0.726, 'neu': 0.274, 'pos': 0.0, 'compound': -0.6486}
+
+yes yes yes yes
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.8689}
+
+say 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+nobody need know
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Mister Burr sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+yeah
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}
+
+sure
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+
+lot less work
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ha
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.34}
+
+ talk less smile 
+{'neg': 0.0, 'neu': 0.475, 'pos': 0.525, 'compound': 0.2975}
+
+whatever take get plan Congress floor
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+well hate sin love sinner
+{'neg': 0.5, 'neu': 0.068, 'pos': 0.432, 'compound': -0.25}
+
+I sorry Burr I get ta go
+{'neg': 0.245, 'neu': 0.755, 'pos': 0.0, 'compound': -0.0772}
+
+decision happen dinner
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I nowhere else turn
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+cuz bank spot
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+God help forgive I
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.7096}
+
+Burr since democraticrepublican
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+one know
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+excuse I
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.0772}
+
+wait
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I always consider friend
+{'neg': 0.0, 'neu': 0.385, 'pos': 0.615, 'compound': 0.4939}
+
+change party run fatherinlaw
+{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.4019}
+
+must goddamn mind think President gon na bring nation brink meddle middle military mess
+{'neg': 0.318, 'neu': 0.682, 'pos': 0.0, 'compound': -0.6808}
+
+Sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Lafayette s smart man fine friend mine try fight every revolution world never stop draw line
+{'neg': 0.117, 'neu': 0.451, 'pos': 0.432, 'compound': 0.7174}
+
+alas
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.2732}
+
+defendant get acquit
+{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.2023}
+
+Mr President ask see I
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+need sir Sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+kid
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+whatever say sir Jefferson pay behavior
+{'neg': 0.219, 'neu': 0.781, 'pos': 0.0, 'compound': -0.1027}
+
+I use press I write pseudonym see
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+yes resign finally speak mind 
+{'neg': 0.296, 'neu': 0.37, 'pos': 0.333, 'compound': 0.0772}
+
+Ha Good luck defeat sir
+{'neg': 0.244, 'neu': 0.081, 'pos': 0.675, 'compound': 0.6486}
+
+I sorry
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.0772}
+
+sir
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Sir Britain France verge war best time 
+{'neg': 0.298, 'neu': 0.382, 'pos': 0.321, 'compound': 0.0772}
+
+far people concerned serve could continue serve 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Mr President say weak
+{'neg': 0.492, 'neu': 0.508, 'pos': 0.0, 'compound': -0.4404}
+
+position unique
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+say goodbye
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+one last time
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Though review incident administration
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+hope country View indulgence fortyfive year life dedicate service upright zeal fault incompetent ability consign oblivion
+{'neg': 0.252, 'neu': 0.522, 'pos': 0.226, 'compound': -0.1531}
+
+teach  em say goodbye
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+sit John fat mother  bleep
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Mr Vice President Mr Madison Senator Burr
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Ha even know ask I confess
+{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.34}
+
+nothing
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+yes
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}
+
+court I escort I bed I corner Reynolds extort I sordid fee
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Burr
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+eye hurricane quiet moment
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I write way  write ev  rythe far
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+eye hurricane way
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+wait wait wait wait 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Reynolds Pamphlet
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Angelica 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Angelica thank God someone understand I struggle
+{'neg': 0.232, 'neu': 0.303, 'pos': 0.465, 'compound': 0.3182}
+
+hey least
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+slow
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+friend attempt negotiate peace
+{'neg': 0.0, 'neu': 0.23, 'pos': 0.77, 'compound': 0.7717}
+
+happen
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+alright gon na stand like man Eacker front time come fire weapon air put end whole affair
+{'neg': 0.208, 'neu': 0.588, 'pos': 0.204, 'compound': -0.0258}
+
+follow suit truly man honor take someone s life something shake Philip mother take another heartbreak
+{'neg': 0.24, 'neu': 0.489, 'pos': 0.271, 'compound': 0.1779}
+
+Promise I want young man s blood conscience
+{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.3818}
+
+come back home take gun smart make I proud son
+{'neg': 0.169, 'neu': 0.423, 'pos': 0.408, 'compound': 0.5267}
+
+s son alive
+{'neg': 0.0, 'neu': 0.278, 'pos': 0.722, 'compound': 0.3818}
+
+Philip
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Eliza
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Philip would like uptown quiet uptown
+{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.3612}
+
+hair go grey pass every day say walk length city
+{'neg': 0.0, 'neu': 0.882, 'pos': 0.118, 'compound': 0.0516}
+
+knock I
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+look look start
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Eliza like uptown quiet uptown
+{'neg': 0.0, 'neu': 0.615, 'pos': 0.385, 'compound': 0.3612}
+
+look around look around Eliza
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+quiet uptown
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+quiet uptown
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+well Aaron Burr Sir
+{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.2732}
+
+create quite stir sir
+{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.2732}
+
+openly campaigning
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+new
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Burr 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+anything would
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Yo
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+people ask hear voice
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+country face difficult choice
+{'neg': 0.455, 'neu': 0.545, 'pos': 0.0, 'compound': -0.3612}
+
+ask I I would promote 
+{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.3818}
+
+ Jefferson vote
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+fight like seventyfive diff nt front
+{'neg': 0.286, 'neu': 0.44, 'pos': 0.275, 'compound': -0.0258}
+
+say Jefferson belief Burr none
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Mr Vice President
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+hey
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Burr grievance legitimate
+{'neg': 0.608, 'neu': 0.392, 'pos': 0.0, 'compound': -0.4767}
+
+Shhh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I back know I go
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+meeting s dawn
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+hey best wife best woman
+{'neg': 0.0, 'neu': 0.263, 'pos': 0.737, 'compound': 0.8555}
+
+near spot son die 
+{'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.5994}
+
+LAURENS
+------------------------------------------------------
+tendollar founding father without father get lot farther work lot harder lot smarter selfstarter fourteen place charge trading charter
+{'neg': 0.0, 'neu': 0.857, 'pos': 0.143, 'compound': 0.4588}
+
+yo yo yo yo yo time
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+show time show time yo I John Laurens place two pint  Sam Adams I workin  three uh redcoat want I Cuz
+{'neg': 0.0, 'neu': 0.929, 'pos': 0.071, 'compound': 0.0772}
+
+Ayyyyy
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+sex pour I another brew son let s raise couple 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+well prodigy Princeton college
+{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.2732}
+
+give verse drop knowledge
+{'neg': 0.412, 'neu': 0.588, 'pos': 0.0, 'compound': -0.2732}
+
+Burr revolution s imminent stall
+{'neg': 0.375, 'neu': 0.625, 'pos': 0.0, 'compound': -0.2023}
+
+Ooh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+shot shot I throw away shot
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+never truly free bondage rights I
+{'neg': 0.63, 'neu': 0.37, 'pos': 0.0, 'compound': -0.6259}
+
+let s get guy front crowd
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ev  rybody sing Whoa whoa whoa hey Whoa Wooh Whoa Ay let  em hear ya let s go
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+rise live knee rise tell brother get ta rise tell sister get ta rise
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+raise glass freedom something never take away matter tell raise glass four
+{'neg': 0.07, 'neu': 0.655, 'pos': 0.275, 'compound': 0.6281}
+
+raise glass four
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+alright alright I talkin  everyone give maid honor Angelica Schuyler
+{'neg': 0.0, 'neu': 0.455, 'pos': 0.545, 'compound': 0.7351}
+
+I see wonder great small
+{'neg': 0.0, 'neu': 0.423, 'pos': 0.577, 'compound': 0.6249}
+
+ cause tomcat get marry
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+hope ass
+{'neg': 0.547, 'neu': 0.0, 'pos': 0.453, 'compound': -0.1531}
+
+raise glass four
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+let s another round 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+well well
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4939}
+
+tryin  hide Burr
+{'neg': 0.459, 'neu': 0.541, 'pos': 0.0, 'compound': -0.1779}
+
+strong word Lee someone oughta hold
+{'neg': 0.0, 'neu': 0.602, 'pos': 0.398, 'compound': 0.5106}
+
+I Alexander closest friend I get
+{'neg': 0.0, 'neu': 0.484, 'pos': 0.516, 'compound': 0.4939}
+
+challenge demand satisfaction apologize need action
+{'neg': 0.165, 'neu': 0.22, 'pos': 0.615, 'compound': 0.4767}
+
+grab friend second
+{'neg': 0.0, 'neu': 0.385, 'pos': 0.615, 'compound': 0.4939}
+
+reach peace alright time get pistol doctor site
+{'neg': 0.0, 'neu': 0.431, 'pos': 0.569, 'compound': 0.6808}
+
+I satisfied
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4215}
+
+black white soldier wonder alike really mean freedom
+{'neg': 0.0, 'neu': 0.61, 'pos': 0.39, 'compound': 0.6682}
+
+ELIZA
+------------------------------------------------------
+ten father split full debtridden two year later see Alex mother bedridden halfdead sittin sick scent thick
+{'neg': 0.171, 'neu': 0.829, 'pos': 0.0, 'compound': -0.5106}
+
+Eliza
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Eliza
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+like
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}
+
+people shout square
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Angelica remind I look 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+look around look around lucky alive right
+{'neg': 0.0, 'neu': 0.481, 'pos': 0.519, 'compound': 0.6597}
+
+Eliza
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+hey hey hey hey
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ohh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+grab sister Whisper  yo one s mine  sister make way across room
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Elizabeth Schuyler pleasure meet
+{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}
+
+thank service
+{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}
+
+I writin  letter nightly life get better every letter write I Laughin  sister cuz want form harem
+{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4939}
+
+ha two week later living room stressin  father s stonefaced ask blessin  I die inside wine dine I tryin  cry  cause nothing mind father make way across room
+{'neg': 0.223, 'neu': 0.701, 'pos': 0.076, 'compound': -0.6808}
+
+Helpless
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.4588}
+
+Helpless 
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.4588}
+
+Helpless 
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.4588}
+
+Helpless 
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.4588}
+
+Elizabeth Schuyler pleasure meet
+{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}
+
+thank service
+{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}
+
+groom bride bride
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Stay alive 
+{'neg': 0.0, 'neu': 0.278, 'pos': 0.722, 'compound': 0.3818}
+
+look around look around lucky alive right look around look around 
+{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.6597}
+
+I sorry
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.0772}
+
+look look start fact alive miracle stay alive would enough wife could share fraction time
+{'neg': 0.0, 'neu': 0.495, 'pos': 0.505, 'compound': 0.8807}
+
+Alexander 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alexander 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Helpless 
+{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.4588}
+
+look around enough
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+would enough satisfied Satisfied Satisfied  look around look around enough would enough fight like
+{'neg': 0.116, 'neu': 0.4, 'pos': 0.484, 'compound': 0.8074}
+
+Un deux trois quatre cinq six sept huit neuf good un deux trois quatre cinq six sept huit neuf Sept huit neuf  Sept huit neuf 
+{'neg': 0.0, 'neu': 0.892, 'pos': 0.108, 'compound': 0.4404}
+
+take break
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+little surprise supper wait
+{'neg': 0.0, 'neu': 0.624, 'pos': 0.376, 'compound': 0.204}
+
+Alexander 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+son nine year old today something would like say practice day Philip take away 
+{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.3612}
+
+take break
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Run away summer let s go upstate
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+go stay father lake
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+nearby park
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alexander come downstairs Angelica s arrive today
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Angelica
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Angelica tell man John Adams spend summer family
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+come way 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+lake
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+sometimes go
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I sure already know
+{'neg': 0.0, 'neu': 0.465, 'pos': 0.535, 'compound': 0.3182}
+
+New York
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+senator
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+breathing go survive
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alexander know
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+son 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+change melody every time
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+shh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Un deux trois quatre cinq six sept huit neuf good un deux trois quatre cinq six sept Huit neuf Sept huit neuf  Sept huit 
+{'neg': 0.0, 'neu': 0.888, 'pos': 0.112, 'compound': 0.4404}
+
+imagine
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+see street walk side talk side pity
+{'neg': 0.268, 'neu': 0.732, 'pos': 0.0, 'compound': -0.296}
+
+try unimaginable see walk park long dark take sight city
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+try unimaginable
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+quiet uptown
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Forgiveness imagine Forgiveness imagine see street walk side talk side pity go unimaginable
+{'neg': 0.134, 'neu': 0.61, 'pos': 0.256, 'compound': 0.25}
+
+Alexander come back sleep
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+still dark outside
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+write like run time
+{'neg': 0.0, 'neu': 0.545, 'pos': 0.455, 'compound': 0.3612}
+
+come back bed would enough
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+come back sleep
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+well I go back sleep
+{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.2732}
+
+alive 
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3818}
+
+bury Trinity Church
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I still
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Lord kindness give I always want give I 
+{'neg': 0.0, 'neu': 0.482, 'pos': 0.518, 'compound': 0.5106}
+
+time
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+tell story
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+oh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+eye
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+time
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+oh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+COMPANY
+------------------------------------------------------
+Alex get better mother go quick
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+ Alex get ta fend 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+scammin  plannin  Oooh 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+New York new man  New York new man 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+New York new man 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alexander Hamilton wait wing could never back never learn take time oh Alexander Hamilton America sing know overcome know rewrite game world never oh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alexander Hamilton Waiting wing never learn take time oh Alexander Hamilton Alexander Hamilton  America sing know overcome know rewrite game world never oh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+wait
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+million thing
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alexander Hamilton
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ New York City
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Whoa Whoa Whoa Whoa Whoa Yea
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Whoa Whoa Whoa Whoa Whoa rise
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+throwin  away shot
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+work work
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+work work
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+work work Schuyler sister
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+work
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Angelica
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+work
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+work work work work work work work
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Unh
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+greatest city world
+{'neg': 0.0, 'neu': 0.323, 'pos': 0.677, 'compound': 0.6369}
+
+look around look around lucky alive right history happen Manhattan happen
+{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.6597}
+
+greatest city world
+{'neg': 0.0, 'neu': 0.323, 'pos': 0.677, 'compound': 0.6369}
+
+work work work work work work work work work work work work work work
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+work work work work work work
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+greatest city world
+{'neg': 0.0, 'neu': 0.323, 'pos': 0.677, 'compound': 0.6369}
+
+revolution
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+british admiral Howe s get troops water Thirtytwo thousand troops New York harbor
+{'neg': 0.0, 'neu': 0.827, 'pos': 0.173, 'compound': 0.3182}
+
+boom
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+boom
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+boom
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+boom
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+boom
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+outgun outmanned
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+outnumber outplann
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+boom chickaboom
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+come General
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Boom Burr bastard orphan son whore go Grow phenomenon watch obnoxious arrogant loudmouth bother seat right hand father Washington hire Hamilton right sight Hamilton still want fight write Hamilton s skill quill undeniable common reliable All Men Ladies Burr many deflower men Ladies Burr look Proximity power men Ladies Burr delighted distract Martha Washington name feral tomcat Hamilton true full company  Burr
+{'neg': 0.259, 'neu': 0.611, 'pos': 0.13, 'compound': -0.891}
+
+game 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+three fundamental truth exact time 
+{'neg': 0.0, 'neu': 0.635, 'pos': 0.365, 'compound': 0.3182}
+
+number two
+{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.0772}
+
+number three
+{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.0772}
+
+would lie
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+im willing wait wait wait  im willing  Life doesnt discriminate sinner saint take take take keep live anyway rise fall break make mistake reason im still alive many die im willin 
+{'neg': 0.171, 'neu': 0.759, 'pos': 0.07, 'compound': -0.5719}
+
+oo
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+five six seven eight nine 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ten Duel commandment Number one
+{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.0772}
+
+number two
+{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.0772}
+
+number three
+{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.0772}
+
+dispute die one shoot Number four
+{'neg': 0.732, 'neu': 0.163, 'pos': 0.106, 'compound': -0.8271}
+
+five
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+pick place die high dry number six
+{'neg': 0.382, 'neu': 0.49, 'pos': 0.127, 'compound': -0.5574}
+
+seven
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+number eight
+{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.0772}
+
+number nine
+{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.0772}
+
+five six seven eight nine
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ten pace
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+come General
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Meet inside Meet inside Meet inside meet meet inside
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Lafayette
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Lafayette
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Lafayette
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Lafayette
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Lafayette
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hamilton
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hamilton
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hamilton
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hamilton
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hamilton
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Whoa  Whoa  Whoa  yeah
+{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}
+
+live die tell story
+{'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.5994}
+
+history eye
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+battle Yorktown 
+{'neg': 0.722, 'neu': 0.278, 'pos': 0.0, 'compound': -0.3818}
+
+leave right hold go
+{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.0516}
+
+world turn upside world turn upside world turn upside
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+world turn upside
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Awwww
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+always say believe Awww
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ev  ry day fight like go style
+{'neg': 0.257, 'neu': 0.495, 'pos': 0.248, 'compound': -0.0258}
+
+history eye
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+seventeen se se seventeen  se se seventeen 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Thomas Jefferson s coming home Thomas Jefferson s coming home Thomas Jefferson s coming home Thomas Jefferson s coming home Thomas Jefferson s come home lord Paris long Aaaooo Aaaooo
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Mr Jefferson welcome home Sir Paris long
+{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.4588}
+
+Thomas claim 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Thomas claim 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Thomas claim 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Thomas claim 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+room happen room happen room happen
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+room happen room happen room happen
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+party get yesssss ev  ry game chesssss assume happen room happen
+{'neg': 0.0, 'neu': 0.787, 'pos': 0.213, 'compound': 0.4019}
+
+meanwhile 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+meanwhile 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+ one else room happen
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+room happen room happen one else room happen room happen room happen
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+God trust never really know get discuss Clickboom happen
+{'neg': 0.0, 'neu': 0.565, 'pos': 0.435, 'compound': 0.6597}
+
+Alexander Hamilton
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alexander Hamilton
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alexander Hamilton
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+wait wait wait
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+want Burr want Burr want Burr want
+{'neg': 0.0, 'neu': 0.366, 'pos': 0.634, 'compound': 0.296}
+
+art compromise 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+want leader save day 
+{'neg': 0.0, 'neu': 0.308, 'pos': 0.692, 'compound': 0.5423}
+
+dream brand new start 
+{'neg': 0.0, 'neu': 0.6, 'pos': 0.4, 'compound': 0.25}
+
+dark tomb happen
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+room happen room happen room happen room happen room happen
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+George Washington s go home George Washington s go home George Washington s go home George Washington s go home teach  em say goodbye teach  em say goodbye say goodbye one last time
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Reynolds Pamphlet
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Boooo
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+way London Damn
+{'neg': 0.574, 'neu': 0.426, 'pos': 0.0, 'compound': -0.4019}
+
+one less thing worry Reynolds Pamphlet
+{'neg': 0.344, 'neu': 0.656, 'pos': 0.0, 'compound': -0.3862}
+
+blow away
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+election 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+room happen room happen
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+room happen
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+one two three four
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+number one
+{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.0772}
+
+number two
+{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.0772}
+
+number three
+{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.0772}
+
+dispute die one shoot Number four
+{'neg': 0.732, 'neu': 0.163, 'pos': 0.106, 'compound': -0.8271}
+
+five
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+six
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+seven
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+number eight
+{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.0772}
+
+number nine
+{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.0772}
+
+one two three four five six seven eight nine number ten pace fire 
+{'neg': 0.163, 'neu': 0.748, 'pos': 0.088, 'compound': -0.2732}
+
+aim pistol sky 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Aaaah Aaaah Aaaah
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Aaaah Aaaah Aaaah
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Aaaah Aaaah Aaaah
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+live die tell story
+{'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.5994}
+
+live die tell story
+{'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.5994}
+
+live die tell story
+{'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.5994}
+
+Eliza
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Time
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Time
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Time
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Time
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Time
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+tell story
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+orphanage
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+orphanage
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+orphanage
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Time
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+tell story
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Time
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+tell story live die tell story tell story live die 
+{'neg': 0.494, 'neu': 0.506, 'pos': 0.0, 'compound': -0.8316}
+
+Time  Time  Time 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+tell story
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+MADISON
+------------------------------------------------------
+hurricane come devastation reign man see future drip drip drain put pencil temple connect brain write first refrain testament pain
+{'neg': 0.253, 'neu': 0.747, 'pos': 0.0, 'compound': -0.7269}
+
+Thomas engage battle nation s soul get mess
+{'neg': 0.443, 'neu': 0.348, 'pos': 0.209, 'compound': -0.4019}
+
+Hamilton s new financial plan nothing less government control I fight South alone
+{'neg': 0.325, 'neu': 0.675, 'pos': 0.0, 'compound': -0.5165}
+
+win
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5859}
+
+vote
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+even bring thunder 
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hamilton
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+maybe solve one problem another win victory Southerners word 
+{'neg': 0.189, 'neu': 0.42, 'pos': 0.392, 'compound': 0.4404}
+
+would like work little closer home
+{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.3612}
+
+well
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2732}
+
+well see go
+{'neg': 0.0, 'neu': 0.488, 'pos': 0.512, 'compound': 0.2732}
+
+France
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+double size government trouble much previous government size
+{'neg': 0.278, 'neu': 0.722, 'pos': 0.0, 'compound': -0.4019}
+
+follow scent enterprise
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+stop aid abet
+{'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.296}
+
+somebody stand South
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+follow money see go
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+great power hold office destroy President John Adams significant member party
+{'neg': 0.183, 'neu': 0.366, 'pos': 0.45, 'compound': 0.6249}
+
+almost thousand dollar pay different amount 
+{'neg': 0.185, 'neu': 0.815, 'pos': 0.0, 'compound': -0.0352}
+
+uniquely situate virtue position 
+{'neg': 0.0, 'neu': 0.517, 'pos': 0.483, 'compound': 0.4215}
+
+seek financial gain stray sacred mission 
+{'neg': 0.0, 'neu': 0.595, 'pos': 0.405, 'compound': 0.5267}
+
+gentleman let s go
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+people wont know know
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+highlight
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.34}
+
+house
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+please
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+
+Aaron Burr
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+attractive North New Yorkers like chance
+{'neg': 0.0, 'neu': 0.288, 'pos': 0.712, 'compound': 0.7506}
+
+ask question glance obfuscate dance
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Thomas problem see see Burr less extreme
+{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}
+
+need change course key endorsement might redeem
+{'neg': 0.0, 'neu': 0.723, 'pos': 0.277, 'compound': 0.3182}
+
+laugh
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5574}
+
+use work staff
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+might nice might nice get Hamilton side
+{'neg': 0.0, 'neu': 0.472, 'pos': 0.528, 'compound': 0.6808}
+
+might nice might nice get Hamilton side
+{'neg': 0.0, 'neu': 0.472, 'pos': 0.528, 'compound': 0.6808}
+
+tie
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hamilton s side
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+win landslide
+{'neg': 0.0, 'neu': 0.208, 'pos': 0.792, 'compound': 0.5859}
+
+crazy guy come second get Vice President
+{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.34}
+
+take country bankruptcy prosperity
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
